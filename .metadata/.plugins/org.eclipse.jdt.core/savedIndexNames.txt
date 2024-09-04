@@ -1,7 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Inaq\Desktop\Javandonopoo\.metadata\.plugins\org.eclipse.jdt.core
-375986941.index
-2127704158.index
-1865797976.index
-430680731.index
-3803894794.index
-235043725.index
