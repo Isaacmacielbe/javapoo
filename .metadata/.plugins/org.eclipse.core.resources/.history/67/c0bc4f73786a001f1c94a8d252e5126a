@@ -1,0 +1,15 @@
+package principal;
+
+public class Concatenar {
+
+	public static void main(String[] args) {
+		String texto1 = "Olá";
+		String texto2 = "Mundo";
+		
+		//Usando o operador +
+		String resultado = texto1 + ", " + texto2 + "!";
+		
+
+	}
+
+}

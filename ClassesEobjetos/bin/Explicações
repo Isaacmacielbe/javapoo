@@ -1,0 +1,13 @@
+sClasse: É um blueprint ou molde para criar objetos. Define atributos (variáveis) e métodos (funções) que os objetos criados a partir dessa classe terão.
+
+Atributo: São as variáveis que armazenam o estado ou características dos objetos da classe.
+
+Método: É uma função dentro de uma classe que define um comportamento ou ação que os objetos da classe podem executar.
+
+Construtor: É um método especial que é chamado quando um objeto é instanciado. Ele inicializa os atributos do objeto.
+
+Get e Set: São métodos usados para acessar (get) e modificar (set) os atributos privados de uma classe, promovendo o encapsulamento.
+
+Herança: É um mecanismo que permite que uma classe herde atributos e métodos de outra classe. A classe que herda é chamada de subclasse (ou classe filha), e a classe da qual ela herda é chamada de superclasse (ou classe mãe).
+
+Encapsulamento: É o princípio de ocultar os detalhes internos de uma classe e expor apenas o necessário. Isso é feito tornando os atributos privados e usando métodos públicos para acessá-los (getters e setters).

@@ -1,0 +1,14 @@
+package principal;
+
+public class M {
+
+	public static void main(String[] args) {
+		String str = "Academico da unifanor";
+		char caracteres = str.charAt(2);
+		System.out.println(caracteres);
+		//Retorna "a";
+		
+		
+	}
+
+}

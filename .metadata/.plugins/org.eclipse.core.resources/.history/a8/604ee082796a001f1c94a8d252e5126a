@@ -1,0 +1,13 @@
+package principal;
+
+public abstract class ConvertLetra {
+
+	public static void main(String[] args) {
+		String texto = "Olá, mundo!";
+		
+		String maisucula = texto.toUpperCase();
+		String minuscula = texto.toLowerCase()
+
+	}
+
+}

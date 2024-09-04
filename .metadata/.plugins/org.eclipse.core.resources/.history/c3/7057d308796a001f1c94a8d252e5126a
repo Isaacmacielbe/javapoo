@@ -1,0 +1,10 @@
+package principal;
+
+public class Length {
+
+	public static void main(String[] args) {
+		String texto = "Olá, mundo!";
+		int tamanho = texto.length()
+	}
+
+}
